@@ -1,0 +1,6 @@
+mtk_led@10000000 {
+    compatible = "mediatek,my-led";
+    reg = <0x10000000 0x1000>;
+    interrupts = <42>;
+    clocks = <&clk 0>;
+};
