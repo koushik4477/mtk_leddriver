@@ -1,8 +1,4 @@
-# mtk_leddriver
 
-Below is a **clean, production-style README** without referencing any specific company name. You can directly use this in your GitHub repository.
-
----
 
 # Register-Level Platform LED Driver (Linux Kernel)
 
